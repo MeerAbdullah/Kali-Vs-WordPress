@@ -7,7 +7,7 @@ Summary for exploit 1:
       - The vulnerability type is XSS.
       - The CVE Identifier is: CVE-2020-11030
    - Identify affected versions and patches
-      - The affected versions and patches are for versions 4.2.2 or older versions.
+      - The affected versions and patches are for versions 4.2.2 or older versions. Newer versions are fixed.
    - Links to the source code, where possible
       - The link: https://github.com/Mitchellliou/Week-7-WordPress-vs-Kali/blob/master
    - A screen cap
