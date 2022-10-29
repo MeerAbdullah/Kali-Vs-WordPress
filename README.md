@@ -9,8 +9,10 @@ Summary for exploit 1:
    - Identify affected versions and patches
       - The affected versions and patches are for versions 4.2.2 or older versions. Newer versions are fixed.
    - Links to the source code, where possible
-      - The link: N/A, couldn't find
+      - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/theme.php
    - A screen cap
+   - Steps to recreate:
+      -   
 
 ![ScreenCap1](https://user-images.githubusercontent.com/96878742/198816347-a3e6bf7f-f7bc-42c9-a4bf-eaab469bb6ca.gif)
 
