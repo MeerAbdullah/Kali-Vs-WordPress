@@ -20,6 +20,7 @@ Summary for exploit 2:
    - The types / classes of vulnerabilities involved and any related CVE identifiers
    - Identify affected versions and patches
    - Links to the source code, where possible
+      - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/theme.php 
    - A screen cap
 
 ![ScreenCap#2](https://user-images.githubusercontent.com/96878742/198817077-7f3cb471-0bd7-44c5-9146-6ec6f8fc7c14.gif)
@@ -29,6 +30,7 @@ Summary for exploit 3:
    - The types / classes of vulnerabilities involved and any related CVE identifiers
    - Identify affected versions and patches
    - Links to the source code, where possible
+      - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/class-wp-embed.php 
    - A screen cap
 
 ![ScreenCap3](https://user-images.githubusercontent.com/96878742/198817432-4aee6338-21f7-498c-93eb-262a26bd6746.gif)
