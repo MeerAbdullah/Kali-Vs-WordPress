@@ -22,6 +22,8 @@ Summary for exploit 2:
    - Links to the source code, where possible
    - A screen cap
 
+![ScreenCap#2](https://user-images.githubusercontent.com/96878742/198817077-7f3cb471-0bd7-44c5-9146-6ec6f8fc7c14.gif)
+
 Third exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 3:         
    - A small writeup indicating the steps you used to recreate
