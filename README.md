@@ -21,6 +21,7 @@ Summary for exploit 2:
    - A small writeup indicating the steps you used to recreate
    - The types / classes of vulnerabilities involved and any related CVE identifiers
    - Identify affected versions and patches
+      - The affected versions and patches are for versions 4.2 or older versions. Newer versions are fixed. 
    - Links to the source code, where possible
       - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/theme.php 
    - A screen cap
