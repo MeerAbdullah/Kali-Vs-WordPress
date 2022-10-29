@@ -8,7 +8,7 @@ Summary for exploit 1:
    - Identify affected versions and patches
    - Links to the source code, where possible
    - A screen cap
-<br/>
+
 Second exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 2:         
    - A small writeup indicating the steps you used to recreate
@@ -16,7 +16,7 @@ Summary for exploit 2:
    - Identify affected versions and patches
    - Links to the source code, where possible
    - A screen cap
-<br/>
+
 Third exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 3:         
    - A small writeup indicating the steps you used to recreate
@@ -24,7 +24,7 @@ Summary for exploit 3:
    - Identify affected versions and patches
    - Links to the source code, where possible
    - A screen cap
-<br/>
+
 Fourth exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 4:         
    - A small writeup indicating the steps you used to recreate
