@@ -32,7 +32,7 @@ Summary for exploit 3:
    - Links to the source code, where possible
    - A screen cap
 
-[embed src='https://youtube.com/embed/12345\x3csvg onload=alert(document.cookie)\x3e'][/embed]
+![ScreenCap3](https://user-images.githubusercontent.com/96878742/198817432-4aee6338-21f7-498c-93eb-262a26bd6746.gif)
 
 Fourth exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 4:         
