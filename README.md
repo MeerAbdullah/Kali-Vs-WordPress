@@ -25,8 +25,7 @@ Summary for exploit 2:
 ![ScreenCap#2](https://user-images.githubusercontent.com/96878742/198817077-7f3cb471-0bd7-44c5-9146-6ec6f8fc7c14.gif)
 
 Third exploit found: XSS (Cross Site Scripting)<br/>
-Summary for exploit 3:         
-   - A small writeup indicating the steps you used to recreate
+Summary for exploit 3:
    - The types / classes of vulnerabilities involved and any related CVE identifiers
    - Identify affected versions and patches
    - Links to the source code, where possible
@@ -35,8 +34,7 @@ Summary for exploit 3:
 ![ScreenCap3](https://user-images.githubusercontent.com/96878742/198817432-4aee6338-21f7-498c-93eb-262a26bd6746.gif)
 
 Fourth exploit found: XSS (Cross Site Scripting)<br/>
-Summary for exploit 4:         
-   - A small writeup indicating the steps you used to recreate
+Summary for exploit 4:
    - The types / classes of vulnerabilities involved and any related CVE identifiers
    - Identify affected versions and patches
       - The affected versions and patches are for versions 4.2 or older versions. Newer versions are fixed.
