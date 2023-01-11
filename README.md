@@ -9,7 +9,6 @@ Summary for exploit 1:
       - The affected versions and patches are for versions 4.2.2 or older versions. Newer versions are fixed.
    - Links to the source code, where possible
       - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/theme.php
-   - A screen cap
    - Steps to recreate:
       - Enter given command on a newly created page, and hover over and you will see an assert. Follow gif if needed.
 
@@ -25,7 +24,6 @@ Summary for exploit 2:
       - The affected versions and patches are for versions 4.2 or older versions. Newer versions are fixed. 
    - Links to the source code, where possible
       - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/theme.php 
-   - A screen cap
    - Steps to recreate:
       - Enter given command on a newly created post, and hover over and you will see an assert. Follow gif if needed.
 
@@ -40,7 +38,6 @@ Summary for exploit 3:
       - The affected versions and patches are for versions 4.2 or older versions. Newer versions are fixed.  
    - Links to the source code, where possible
       - https://core.trac.wordpress.org/browser/trunk/src/wp-includes/class-wp-embed.php 
-   - A screen cap
    - Steps to recreate:
       - Enter given command on a newly created post, and hover over and you will see an assert. Follow gif if needed.
 
@@ -55,7 +52,6 @@ Summary for exploit 4:
       - The affected versions and patches are for versions 4.2 or older versions. Newer versions are fixed.
    - Links to the source code, where possible
       - https://core.trac.wordpress.org/browser/tags/4.2/src/wp-login.php
-   - A screen cap
    - Steps to recreate:
       - Go to login screen, enter a valid username and incorrect password and it will say the username is valid. Follow gif if needed.
 
